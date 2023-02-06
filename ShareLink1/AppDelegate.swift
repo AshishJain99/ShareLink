@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ShareLink1
 //
-//  Created by sixpep on 06/02/23.
+//  Created by Ash on 06/02/23.
 //
 
 import UIKit
